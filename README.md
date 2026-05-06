@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **nextjs, laravel, C++ (IoT), PLC, HMI, SCADA**
 
-- 📫 How to reach me **rino.ch.93@gmail.com or IG @rino.christianto**
+- 📫 How to reach me **rino.ch.93@gmail.com or IG @r__chto**
 
 - 📄 Know about my experiences [www.linkedin.com/in/rinoch22](www.linkedin.com/in/rinoch22)
 
